@@ -181,7 +181,7 @@ Q: Where do I find my onboarding tasks?
 A: Check your Asana board for updates.
 
 Q: Who do I contact for IT issues?
-A: Email ITSupport@futuretech.com.
+A: Email ITSupport@futuretech******.com.
 
 ---------------------------------------------------------------------------------------
 
@@ -190,4 +190,4 @@ We’re excited to have you as part of the FutureTech family!
 
 Remember, your success is our success.
 
-Questions? Contact your buddy or HR at HR@futuretech.com.
+Questions? Contact your buddy or HR at HR@futuretech****.com.
